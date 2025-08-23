@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 void user_append(int **arr , int *size);
 void display(int *arr, int size);
 void insert_before(int **arr , int *size , int ref);

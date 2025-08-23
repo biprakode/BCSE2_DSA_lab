@@ -1,0 +1,46 @@
+Assignment – 2
+
+
+(to be completed
+during the lab session)
+
+
+ 
+
+
+1.      
+Write a program which will accept some integer
+data from the user input (or from a file) and store the data in a linked list.
+
+
+2.      
+Next, update 
+your program with the following functions:
+
+
+a)     
+Write a function to insert a new data after a
+given data.
+
+
+b)     
+Write a function to insert a new data before a
+given data.
+
+
+c)      
+Write a function to delete a given data.
+
+
+d)     
+Write a function to insert a data exactly at the
+n-th position.
+
+
+e)     
+Write a function to find the middle data.
+
+
+f)      
+Write a function to get the n-th data from the
+end of the list.
