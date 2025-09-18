@@ -1,0 +1,62 @@
+Assignment 4
+NANDINI MUKHOPADHYAY
+•
+Sep 11
+100 points
+Due Sep 18
+BCSE II – Data Structure and Algorithms Lab
+
+
+Assignment – 4
+
+
+
+Problems 1, 2 and 3 will have to implement stack. Use linked
+list to implement the stack.
+
+
+1.      
+Write a program to use a stack to read an
+integer and print its prime divisors in ascending order
+
+
+ 
+
+
+2.       Write
+a program to examine whether the pairs of parenthesis “(“, “)”, “[“, “]”, “{“,
+“}”  in an expression string are correct
+in order.
+
+
+For example: for
+input expression “(){(([]))}” , output 
+will be  Balanced, while for input
+expression “()(([]))”, output will be 
+Unbalanced.
+
+
+ 
+
+
+3.       Implement
+a Polish Notation calculator that will read a Polish Notation expression from a
+file (specified as a command line argument) and display the result of
+performing the computation.
+
+
+4.       Write
+a function making suitable queue ADT calls to solve each of the following
+problems:
+
+
+a) Given a string, check if it is of the form w#w, where w is a string with alphanumeric
+characters only.
+
+
+b) Given a string, check if it is of the form ww, where w is a string with alphanumeric
+characters only.
+
+
+c) Given a string, check if it is of the form w#w’, where w is a string with alphanumeric
+characters only, and where w’ stands for the reverse of the string w.
