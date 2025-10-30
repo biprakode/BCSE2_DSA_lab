@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc -Wl,--dependency-file=CMakeFiles/gen_heap.dir/link.d CMakeFiles/gen_heap.dir/heap.c.o CMakeFiles/gen_heap.dir/q4_q5_q6.c.o -o gen_heap  -lm
