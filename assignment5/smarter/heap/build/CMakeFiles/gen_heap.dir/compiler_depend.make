@@ -129,8 +129,48 @@ CMakeFiles/gen_heap.dir/q4_q5_q6.c.o: /run/media/biprarshi/COMMON/files/JUlabs/S
   /usr/lib/gcc/x86_64-redhat-linux/15/include/stdbool.h \
   /usr/lib/gcc/x86_64-redhat-linux/15/include/stddef.h
 
+gen_heap: /lib64/ld-linux-x86-64.so.2 \
+  /lib64/libc.so.6 \
+  /lib64/libgcc_s.so.1 \
+  /lib64/libm.so.6 \
+  /lib64/libmvec.so.1 \
+  /usr/lib64/crt1.o \
+  /usr/lib64/crti.o \
+  /usr/lib64/crtn.o \
+  /usr/lib64/libc.so \
+  /usr/lib64/libm.so \
+  /usr/lib/gcc/x86_64-redhat-linux/15/crtbegin.o \
+  /usr/lib/gcc/x86_64-redhat-linux/15/crtend.o \
+  /usr/lib/gcc/x86_64-redhat-linux/15/libgcc.a \
+  /usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so \
+  /usr/lib64/libc_nonshared.a \
+  CMakeFiles/gen_heap.dir/heap.c.o \
+  CMakeFiles/gen_heap.dir/q4_q5_q6.c.o
+
+
+CMakeFiles/gen_heap.dir/q4_q5_q6.c.o:
+
+CMakeFiles/gen_heap.dir/heap.c.o:
+
+/usr/lib64/libc_nonshared.a:
+
+/usr/lib/gcc/x86_64-redhat-linux/15/libgcc_s.so:
+
+/usr/lib64/libm.so:
+
+/usr/lib64/crti.o:
+
+/usr/lib64/crt1.o:
+
+/lib64/libm.so.6:
+
+/lib64/libgcc_s.so.1:
+
+/lib64/ld-linux-x86-64.so.2:
 
 /usr/include/bits/types/struct_tm.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/15/libgcc.a:
 
 /usr/include/bits/time.h:
 
@@ -160,6 +200,8 @@ CMakeFiles/gen_heap.dir/q4_q5_q6.c.o: /run/media/biprarshi/COMMON/files/JUlabs/S
 
 /usr/include/bits/stdint-intn.h:
 
+/lib64/libmvec.so.1:
+
 /usr/include/bits/struct_mutex.h:
 
 /usr/include/gnu/stubs-64.h:
@@ -178,6 +220,8 @@ CMakeFiles/gen_heap.dir/q4_q5_q6.c.o: /run/media/biprarshi/COMMON/files/JUlabs/S
 
 /usr/include/bits/libc-header-start.h:
 
+/usr/lib/gcc/x86_64-redhat-linux/15/crtend.o:
+
 /usr/include/strings.h:
 
 /usr/include/stdc-predef.h:
@@ -185,6 +229,8 @@ CMakeFiles/gen_heap.dir/q4_q5_q6.c.o: /run/media/biprarshi/COMMON/files/JUlabs/S
 /usr/include/bits/pthreadtypes-arch.h:
 
 /usr/include/bits/endianness.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/15/crtbegin.o:
 
 /usr/include/bits/types/__FILE.h:
 
@@ -208,6 +254,8 @@ CMakeFiles/gen_heap.dir/q4_q5_q6.c.o: /run/media/biprarshi/COMMON/files/JUlabs/S
 
 /usr/include/bits/types/clock_t.h:
 
+/usr/lib64/crtn.o:
+
 /usr/include/bits/atomic_wide_counter.h:
 
 /usr/include/bits/types/clockid_t.h:
@@ -216,9 +264,13 @@ CMakeFiles/gen_heap.dir/q4_q5_q6.c.o: /run/media/biprarshi/COMMON/files/JUlabs/S
 
 /usr/include/bits/typesizes.h:
 
+/usr/lib64/libc.so:
+
 /usr/include/bits/time64.h:
 
 /usr/include/string.h:
+
+/lib64/libc.so.6:
 
 /usr/include/bits/types/locale_t.h:
 
