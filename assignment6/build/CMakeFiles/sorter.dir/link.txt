@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc -Wl,--dependency-file=CMakeFiles/sorter.dir/link.d CMakeFiles/sorter.dir/main.c.o CMakeFiles/sorter.dir/bubble_sort.c.o CMakeFiles/sorter.dir/insertion_sort.c.o CMakeFiles/sorter.dir/selection_sort.c.o CMakeFiles/sorter.dir/heap_sort.c.o CMakeFiles/sorter.dir/merge_sort.c.o CMakeFiles/sorter.dir/quick_sort.c.o CMakeFiles/sorter.dir/sort_engine.c.o -o sorter
