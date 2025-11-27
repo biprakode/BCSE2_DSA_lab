@@ -7,14 +7,14 @@ void heapify(Array *array, int i , const char *mode) {
 
     if(strcmp(mode , "MAX") == 0) {
         if(left < array->size && array->compare_func(array->data[left] , array->data[largest]) > 0) {
-        largest = left;
+            largest = left;
         }
         if(right < array->size && array->compare_func(array->data[right] , array->data[largest]) > 0) {
             largest = right;
         }
     }else if(strcmp(mode , "MIN") == 0) {
         if(left < array->size && array->compare_func(array->data[left] , array->data[largest]) < 0) {
-        largest = left;
+            largest = left;
         }
         if(right < array->size && array->compare_func(array->data[right] , array->data[largest]) < 0) {
             largest = right;

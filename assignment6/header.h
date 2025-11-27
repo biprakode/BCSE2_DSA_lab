@@ -12,6 +12,7 @@ typedef struct array_struct {
     void (*display_func)(void);
     void (*free_func)(void *);
 }Array;
+
 #include <time.h>
 #define LEFT(i) (2 * (i) + 1)
 #define RIGHT(i) (2 * (i) + 2)

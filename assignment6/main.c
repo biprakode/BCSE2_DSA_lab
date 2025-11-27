@@ -26,7 +26,7 @@ int main() {
     
     printf("\n\n--- Sorting Algorithm Efficiency Test Results ---\n");
     printf("------------------------------------------------------------------------------------------------------------------------------------------------\n");
-    printf("| %-18s | %-5s | %-12s | %-4s | %-10s | %-10s | %10s ", 
+    printf("| %-18s | %-5s | %-12s | %-4s | %-10s | %10s ", 
            "Algorithm", "Size", "Data Type", "Mode", "Pivot Mode", "Average (s)");
     for (int t = 1; t <= NUM_TRIALS; t++) {
         printf("| Trial %d (s) ", t);
